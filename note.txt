@@ -1,0 +1,9 @@
+when using matlab:
+
+if not necesarry to use vectorized then to map, filter reduce
+
+map - arrayfun(), cellfun(), structfun()
+
+filter - find()
+
+reduce - there is probably  tool box 
