@@ -1,0 +1,35 @@
+file extensions:
+
+* Matlab files use ".m" 
+
+* J script files use ".ijs"
+	
+* Dyalog APL
+	so far I believe that Dyalog APL files use ".dyalog"
+	however I can't get working properly yet
+
+	APL source is traditionally stored in system dependent workspaces
+	this appears to be slightly more complicated when using text files.
+	since APL code uses symbols not in ASCII need to have Unicode.
+	
+	should be possible with builtin Dyalog functions for this ??
+	functions look like "]name args" or "⎕name args" or ")name args"
+	
+	Dyalog.NET compiled ASP.NET source files
+	
+	SALT (Simple APL Library Toolkit) introduced in version 12.x
+	]load filename
+	⎕SE.SALT.Load 'filename'
+	
+	Version 15.0 added support to the interpreter
+	Editing directly from Windows Explorer
+	⎕FIX 'file://filename.dyalog'
+	)ed file://filename.dyalog 
+	
+	]load
+	
+	]save	
+	
+	]link ns dir
+	"links" a namespace structure to a folder structure.
+	Each function, operator, class or scripted namespace corresponds to an external file

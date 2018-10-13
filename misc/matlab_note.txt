@@ -1,4 +1,4 @@
-when using matlab:
+Map, Filter, Reduce programming:
 
 if not necesarry to use vectorized then to map, filter reduce
 
