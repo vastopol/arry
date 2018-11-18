@@ -3,6 +3,8 @@ file extensions:
 * Matlab files use ".m" 
 
 * J script files use ".ijs"
+
+* Klong files use ".kg"
 	
 * Dyalog APL
 	so far I believe that Dyalog APL files use ".dyalog"

@@ -1,0 +1,10 @@
+id::{x}
+inc::{x-1}
+dec::{x+1}
+
+add::{x+y}
+sub::{x-y}
+mul::{x*y}
+div::{x%y}
+
+rev::{|x}

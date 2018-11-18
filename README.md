@@ -1,6 +1,6 @@
 # arry
 
-focus on array based languages
+array based languages
 
 APL:
 Dyalog APL/W Version 14.0.23392
@@ -9,3 +9,7 @@ Unregistered
 
 J:
 j64-806
+
+Klong:
+Klong 20181008
+
